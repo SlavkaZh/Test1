@@ -24,7 +24,10 @@ body {
 #text_pic{
    float: left;
    margin: 35px;
+}
 
+h2{
+  font-style: italic;
 }
 
 #header_fio{

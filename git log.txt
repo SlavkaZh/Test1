@@ -1,6 +1,12 @@
 ﻿
 Рабочий@▒▒▒▒▒▒▒-▒▒ MINGW64 /h/test (master)
 $ git log --graph
+* commit 3c665bc21060aecfa403554d0527b2b4638c0371
+| Author: Vyacheslav Zhabin <SlavkaJ@yandex.ru>
+| Date:   Mon Mar 28 00:35:44 2016 +0400
+|
+|     Обновлен лог
+|
 * commit 543b54e10a5ad9d319163eca73cb5baf7731c202
 | Author: Vyacheslav Zhabin <SlavkaJ@yandex.ru>
 | Date:   Mon Mar 28 00:33:33 2016 +0400
@@ -73,3 +79,4 @@ $ git log --graph
   Date:   Sun Mar 27 22:39:40 2016 +0400
 
       Создание шаблона
+(END)

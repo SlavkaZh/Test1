@@ -1,5 +1,18 @@
+﻿
 Рабочий@▒▒▒▒▒▒▒-▒▒ MINGW64 /h/test (master)
 $ git log --graph
+* commit 543b54e10a5ad9d319163eca73cb5baf7731c202
+| Author: Vyacheslav Zhabin <SlavkaJ@yandex.ru>
+| Date:   Mon Mar 28 00:33:33 2016 +0400
+|
+|     Измена цветовая схема сайта
+|
+* commit 94aab395b5d9bdd5a92d6ff9f336d046f55bb916
+| Author: Vyacheslav Zhabin <SlavkaJ@yandex.ru>
+| Date:   Mon Mar 28 00:30:26 2016 +0400
+|
+|     Добавлен файл лога гита
+|
 * commit 930077ffd50e8a77d80e6ddaf2b3402529dcf486
 | Author: Vyacheslav Zhabin <SlavkaJ@yandex.ru>
 | Date:   Sun Mar 27 23:54:38 2016 +0400
@@ -60,4 +73,3 @@ $ git log --graph
   Date:   Sun Mar 27 22:39:40 2016 +0400
 
       Создание шаблона
-(END)

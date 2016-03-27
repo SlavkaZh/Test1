@@ -8,7 +8,7 @@ body {
           background:#226765;
           margin: auto;
           font-size: 14px;
-    padding: 10px auto;
+          padding: 10px auto;
           width: 100%;
           height: 100%;
     /* min-width:610px; */
@@ -21,7 +21,11 @@ body {
 #text_pic{
    float: left;
    margin: 35px;
+}
 
+h2{
+  font-size: 26px;
+  font-style: italic;
 }
 
 #header_fio{
@@ -30,6 +34,7 @@ body {
 
 #Header_contact{
     font-size: 14px;
+    color: #0F1E96;
     margin-top:-10px;
     float: right;
 }
@@ -54,6 +59,7 @@ body {
 #text {
   border: 2px;
   font-size: 14px;
+  color: #0EED5F;
   margin: 25px;
   min-height:100px;
   padding-bottom:30px;

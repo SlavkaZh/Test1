@@ -1,11 +1,11 @@
 body {
-            background: #226765;
+            background: #A3CEB5;
             color: #000000;
             font-family: Trebuchet MS, Arial, Times New Roman;
             font-size: 12px;
 }
 #container {
-          background:#226765;
+          background:#A3CEB5;
           margin: auto;
           font-size: 14px;
           padding: 10px auto;
@@ -59,7 +59,7 @@ h2{
 #text {
   border: 2px;
   font-size: 14px;
-  color: #09EF11;
+  color: #5E2C00;
   margin: 25px;
   min-height:100px;
   padding-bottom:30px;
@@ -67,7 +67,7 @@ h2{
 }
 
 #footer {
-          background: #486E88;
+          background: #558958;
           font-size: 14px;
     position: fixed;
     left:2; bottom: 2;

@@ -4,3 +4,73 @@ body {
             font-family: Trebuchet MS, Arial, Times New Roman;
             font-size: 12px;
 }
+#container {
+          background:#226765;
+          margin: auto;
+          font-size: 14px;
+    padding: 10px auto;
+          width: 100%;
+          height: 100%;
+    /* min-width:610px; */
+}
+#header_pic{
+    float: left;
+    margin: 4px;
+
+}
+#text_pic{
+   float: left;
+   margin: 35px;
+
+}
+
+#header_fio{
+    position: absolute; left: 75px; top: 25px;
+}
+
+#Header_contact{
+    font-size: 16px;
+    margin-top: 20px;
+    float: right;
+}
+
+#header {
+          background: #70A897;
+          height: 70px;
+          width: 100%px;
+}
+
+#base {
+          background: ##86C9B4;
+    border: 3px solid #70A897;
+    float:none;
+          width: 99%;
+          /*height: 80%;*/
+    margin:0 auto;
+    margin-top: 10px;
+    min-width:130px;
+}
+
+#text {
+  border: 2px;
+  font-size: 14px;
+  margin: 25px;
+  min-height:100px;
+  padding-bottom:30px;
+  padding-left:0px;
+}
+
+#footer {
+          background: #486E88;
+          font-size: 14px;
+    position: fixed;
+    left:2; bottom: 2;
+          height: 40px;
+          width: 100%;
+}
+
+#find{
+    float: right;
+    margin-right: 15px;
+    margin-top: 4px auto;
+}
